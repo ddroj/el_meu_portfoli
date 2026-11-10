@@ -1,0 +1,114 @@
+body {
+	background-color: #ebc7ff;
+}
+
+h1 {
+	font-style: italic;
+}
+
+p {
+	width: 500px;
+}
+
+ul {
+	list-style-type: square;
+	background-color: plum;
+	overflow: hidden;
+}
+
+ul li {
+	width: 200px;
+	float: left;
+}
+
+ul li a {
+	font-style: italic;
+}
+
+img {
+	/* border-left-style: double;
+	border-top-style: double;
+	border-right-style: double;
+	border-bottom-style: double; */
+	border: 3px double black;
+	border-radius: 10px;
+}
+
+th {
+	border: 2px solid #000000;
+	text-align: center;
+}
+
+td {
+	border: 1px solid #000000;
+	text-align: center;
+	width: 100px;
+	padding: 50px;
+}
+
+.pati1 {
+	border: 2px solid #000000;
+	background-color: #ffa9e5;
+}
+
+.pati2 {
+	border: 2px solid #000000;
+	background-color: #ffa9e5;
+}
+
+.casa {
+	border: 2px solid #000000;
+	background-color: #ffa9e5;
+}
+
+.angles {
+	background-color: rgb(200, 200, 255);
+}
+
+.program {
+	background-color: rgb(255, 56, 149);
+}
+
+.muntatge {
+	background-color: rgb(255, 161, 110);
+}
+
+.xarxes {
+	background-color: rgb(115, 115, 255);
+}
+
+.ofimatica {
+	background-color: rgb(255, 255, 255);
+}
+
+.tutoria {
+	background-color: rgb(255, 125, 255);
+}
+
+.digi {
+	background-color: rgb(175, 105, 255);
+}
+
+.ipo {
+	background-color: rgb(90, 255, 214);
+}
+
+.sostenibilitat {
+	background-color: rgb(100, 219, 255);
+}
+
+.monolloc {
+	background-color: rgb(150, 255, 140);
+}
+
+footer {
+	background-color: plum;
+}
+
+.contingut-principal {
+	background-color: #ffffff;
+	color: #333333;
+	border: 2px solid #ff95df;
+	border-radius: 20px;
+	width: 400px;
+}
