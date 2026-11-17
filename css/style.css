@@ -46,6 +46,28 @@ td {
 	padding: 50px;
 }
 
+form {
+	width: 150px;
+	padding: 5px;
+}
+
+input {
+	background-color: #ffe9f2;
+	border: 1px solid #000000;
+	font-style: italic;
+}
+
+textarea {
+	background-color: #ffe9f2;
+	border: 1px solid #000000;
+	font-style: italic;
+}
+
+button {
+	background-color: #ffa9e5;
+	border: 1.5px solid #000000;
+}
+
 .pati1 {
 	border: 2px solid #000000;
 	background-color: #ffa9e5;
